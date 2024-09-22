@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  int number=678;
+  
+  //check if the number is greater than 5
+  if (number>9)
+  {
+    cout<<"The number is greater than 9."<<endl;
+  }
+  else 
+  {
+    cout<<"The number is 9 or less"<<endl;
+  }
+
+    return 0;
+}
